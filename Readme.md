@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 # Clone the repository:
 git clone https://github.com/sreyangshu05/Fyle_Assignment.git
 Navigate to the project directory:
-cd assessment-html-css-js
+cd Fyle_Assignment
 Open the index.html file in your browser:
 open index.html
 Alternatively, you can use a live server extension in your code editor for a better development experience.
