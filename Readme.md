@@ -37,7 +37,7 @@ Interact with the various elements to see the JavaScript functionalities in acti
 # Contact
 If you have any questions or feedback, feel free to reach out:
 Email: sreyangshusarkar@gmail.com
-LinkedIn: Sreyangshu Sarkar
+LinkedIn: Shreyangsh Sarkar
 GitHub: sreyangshu05
 
 Thank you for visiting the repository! I hope you find this project insightful and useful.
